@@ -6,11 +6,6 @@ html {
     background-size: cover;
 }
 
-body,
-html {
-    overflow: hidden;
-}
-
 h1 {
     font-family: 'Roboto', sans-serif;
     font-size: 4em;
